@@ -39,6 +39,9 @@ hr {
     font-size: large;
     padding: 1rem;
 }
+label {
+    font-size: large;
+ }
 
 /** links **/
 .link {
