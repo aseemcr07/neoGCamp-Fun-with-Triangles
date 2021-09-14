@@ -16,7 +16,7 @@ function calculateScore(){
         index++;
     }
     console.log("Score: ", score);
-    outputDiv.innerHTML = "Your score: " + score;
+    outputDiv.innerHTML = "Your score: " + score + "/10";
 }
 
 submitButton.addEventListener("click", calculateScore);
