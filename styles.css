@@ -45,8 +45,18 @@ label {
 
 /** links **/
 .link {
+    font-size: larger;
     text-decoration: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.nav-link {
     padding: 0.5rem 0.5rem;
+    font-size: larger;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
 }
 
 .link-primary {
@@ -167,4 +177,10 @@ h1 {
 h3 {
     text-align: center;
     color: var(--dark-grey);
+}
+
+.submit-button{
+    text-align: center;
+    margin: 2rem;
+    
 }
