@@ -147,7 +147,7 @@ label {
 /** footer **/
 .footer {
     background-color: var(--primary-color);
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
@@ -164,7 +164,7 @@ label {
 }
 
 .fab {
-    padding-top: 1rem;
+    padding-top: 0.5rem;
 }
 
 h1 {
@@ -181,4 +181,9 @@ h3 {
     text-align: center;
     margin: 2rem;
     
+}
+
+h2 {
+    text-align: center;
+    padding: 1rem;
 }
