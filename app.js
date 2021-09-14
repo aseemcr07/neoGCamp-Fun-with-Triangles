@@ -11,11 +11,7 @@ function calculateScore(){
     for(var pair of data.entries()){
         
         if(pair[1] === correctAnswers[index]){
-            console.log(pair[0] + ": " + pair[1] + " - Correct");
             score++;
-        }
-        else{
-            console.log(pair[0] + ": " + pair[1] + " - Wrong");
         }
         index++;
     }
