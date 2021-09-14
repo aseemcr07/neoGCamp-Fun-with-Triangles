@@ -149,3 +149,13 @@ hr {
 .fab {
     padding-top: 1rem;
 }
+
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+h3 {
+    text-align: center;
+    color: var(--dark-grey);
+}
