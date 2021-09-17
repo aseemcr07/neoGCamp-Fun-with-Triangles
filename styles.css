@@ -189,13 +189,17 @@ h2 {
 }
 
 /* Is Triangle? */
-.input-box{
+.input-div{
     text-align: center;
-    padding: 2rem;
 }
-input {
+
+.input-box {
     border: 2px solid var(--primary-color);
     border-radius: 0.5rem;
     min-height: 2rem;
     width: 250px;
+}
+
+.input-heading {
+    font-size: large;
 }
