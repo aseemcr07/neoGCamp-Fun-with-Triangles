@@ -203,3 +203,9 @@ h2 {
 .input-heading {
     font-size: large;
 }
+
+/* Calculate Hypotenuse */
+.calculate-button{
+    text-align: center;
+    margin: 2rem;
+}
